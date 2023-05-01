@@ -1,0 +1,3 @@
+SHA1 hash of R:\Users\rajat\Downloads\weights_mask.pth:
+1d5402ad974cdcb82145f178e94bc848b27fba53
+CertUtil: -hashfile command completed successfully.
